@@ -1,0 +1,1 @@
+{'std_Bootsample': 20.10729974427228, 'std_population': 19.355807170644777}

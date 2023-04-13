@@ -1,0 +1,1 @@
+{'sample_percentile': 47.78, 'population_percentile': 47.52599999999996}
